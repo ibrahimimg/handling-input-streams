@@ -1,4 +1,7 @@
-Handle input stream based on the input type:  webcam, image or video
+### Python OpenCV Capture
+
+Handle input streams, show a webcam feed, video \
+or use it to display an input image
 
 Run
 
@@ -16,4 +19,4 @@ Run
 
 use: `python main.py -h` for help
 
-press esc to exit
+press esc to exit.
